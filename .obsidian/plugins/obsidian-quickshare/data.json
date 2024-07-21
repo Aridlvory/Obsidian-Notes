@@ -1,0 +1,9 @@
+{
+  "serverUrl": "https://noteshare.space",
+  "selfHosted": false,
+  "anonymousUserId": "baa90591c83544ba",
+  "useFrontmatter": true,
+  "frontmatterDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "shareFilenameAsTitle": true,
+  "useFsCache": true
+}

@@ -1,0 +1,12 @@
+- [[23MAT301 - PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS#Text books |PROBABILITY DISTRIBUTIONS AND COMPLEX ANALYSIS]]
+- [[23EST302 - Sustainable Engineering#Text books|Sustainable Engineering]]
+- [[23MEJ303 - Engineering Materials & Applications#Reference books|Engineering Materials & Applications]]
+- [[23MEP304 - Fluid Mechanics And Hydraulic Machines#Text books|Fluid Mechanics And Hydraulic Machines]]
+- [[23MET305 - APPLIED THERMODYNAMICS#Text books|APPLIED THERMODYNAMICS]]
+- [[23HUT306 - HUMANITIES – I ENGINEERING ECONOMICS#Text books|HUMANITIES – I ENGINEERING ECONOMICS]]
+- [[23EST309 - BASIC ENGINEERING MECHANICS#Text Books|BASIC ENGINEERING MECHANICS]]
+- [[23MEM309 - Mechanics of Materials#Text books|Mechanics of Materials]]
+- [[23MEM310 - Fluid Mechanics & Machinery#Text books|Fluid Mechanics & Machinery]]
+- [[23MEM311 - Material Science and Technology#Text books|Material Science and Technology]]
+- [[23MEM312 - Industrial Engineering and  Management#Text books|Industrial Engineering and Management]]
+
